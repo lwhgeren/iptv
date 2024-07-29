@@ -47,43 +47,36 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 吉林卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 黑龙江卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
-•埋堆堆,#genre#
-埋堆堆_𝟙,http://live.iill.top/huya.php?id=23740156
-埋堆堆_𝟚,http://live.iill.top/huya.php?id=23749096
-埋堆堆_𝟛,http://live.iill.top/huya.php?id=23735126
-埋堆堆_𝟜,http://live.iill.top/huya.php?id=23903123
-埋堆堆_𝟝,http://live.iill.top/huya.php?id=23734169
-埋堆堆_𝟞,http://live.iill.top/huya.php?id=23863804
-埋堆堆_𝟟,http://live.iill.top/huya.php?id=23865080
-埋堆堆_𝟠,http://live.iill.top/huya.php?id=23864973
-埋堆堆_𝟡,http://live.iill.top/huya.php?id=23903130
-埋堆堆_𝟙𝟘,http://live.iill.top/huya.php?id=23860039
-埋堆堆_𝟙𝟙,http://live.iill.top/huya.php?id=23903183
-埋堆堆_𝟙𝟚,http://live.iill.top/huya.php?id=23903196
-埋堆堆_𝟙𝟛,http://live.iill.top/huya.php?id=23728674
-埋堆堆_𝟙𝟜,http://live.iill.top/huya.php?id=23865036
-埋堆堆_𝟙𝟝,http://live.iill.top/huya.php?id=23829543
-埋堆堆_𝟙𝟞,http://live.iill.top/huya.php?id=23865161
-埋堆堆_𝟙𝟟,http://live.iill.top/huya.php?id=23865058
-埋堆堆_𝟙𝟠,http://live.iill.top/huya.php?id=23824164
-埋堆堆_𝟙𝟡,http://live.iill.top/huya.php?id=23863796
-埋堆堆_𝟚𝟘,http://live.iill.top/huya.php?id=23734183
-埋堆堆_𝟚𝟙,http://live.iill.top/huya.php?id=23728660
-埋堆堆_𝟚𝟚,http://live.iill.top/huya.php?id=23865142
-埋堆堆_𝟚𝟛,http://live.iill.top/huya.php?id=23734246
-埋堆堆_𝟚𝟜,http://live.iill.top/huya.php?id=23865171
-埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
-埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
+轮播频道,#genre#
+地下交通站,http://152.70.85.77:35455/douyu/299854
+雍正王朝,http://152.70.85.77:35455/huya/11342439
+家有儿女,http://152.70.85.77:35455/huya/9076690
+纪晓岚,http://152.70.85.77:35455/huya/29664242
+笑傲江湖,http://152.70.85.77:35455/huya/26355790
+新白娘子传奇,http://152.70.85.77:35455/huya/26355768
+天龙八部,http://152.70.85.77:35455/huya/23903123
+士兵突击,http://152.70.85.77:35455/huya/11342430
+西游记动画版,http://152.70.85.77:35455/huya/29981376
+西游记,http://152.70.85.77:35455/huya/26355861
+三国演义,http://152.70.85.77:35455/huya/11602081
+鹊刀门传奇,http://152.70.85.77:35455/huya/11352963
+康熙微服私访记,http://152.70.85.77:35455/huya/11342418
+李卫当官,http://152.70.85.77:35455/huya/26355788
+沈腾电影轮播,http://152.70.85.77:35455/huya/11601968
+刑事侦缉档案,http://152.70.85.77:35455/huya/23734169
+古惑仔轮播,http://152.70.85.77:35455/huya/11336719
+大染坊,http://152.70.85.77:35455/huya/11602086
+大宋提刑官,http://152.70.85.77:35455/huya/26355856
+铁道游击队,http://152.70.85.77:35455/huya/11352936
+甄嬛传,http://152.70.85.77:35455/huya/26355845
+炊事班的故事,http://152.70.85.77:35455/huya/19524135
+神医喜来乐,http://152.70.85.77:35455/huya/11601978
+中国通史,http://152.70.85.77:35455/huya/20985822
+王子变青蛙,http://152.70.85.77:35455/huya/11601964
+汉武大帝,http://152.70.85.77:35455/huya/26355859
 •体育,#genre#
 咪咕运动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕直播_𝟙,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕直播_𝟚,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播_𝟛,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播_𝟜,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-BesTV_𝟙,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟛,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟜,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟝,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟟,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
